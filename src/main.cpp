@@ -7,10 +7,10 @@
 #include <WiFiUdp.h>
 #include <ctime>
 
-#define FIREBASE_HOST "https://appp-c42e2.firebaseio.com"  //Change to your Firebase RTDB project ID e.g. Your_Project_ID.firebaseio.com
-#define FIREBASE_AUTH "IMR7x8n1zeTlkVkuY29XEVC33cL7zLV0KCEzc54f" //Change to your Firebase RTDB secret password
-#define WIFI_SSID "home sport"
-#define WIFI_PASSWORD "asdffdsa"
+#define FIREBASE_HOST " - "  //Change to your Firebase RTDB project ID e.g. Your_Project_ID.firebaseio.com
+#define FIREBASE_AUTH " - " //Change to your Firebase RTDB secret password
+#define WIFI_SSID " - "
+#define WIFI_PASSWORD " - "
 #define MEASURES "measures"
 #define dht_pin D3
 #define dht_type DHT11
